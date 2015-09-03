@@ -9,7 +9,7 @@ apt-get update
 #--------------------
 # Misc 
 #--------------------
-sudo apt-get install unzip curl maven openjdk-7-jdk -y
+sudo apt-get install unzip curl maven openjdk-7-jdk tomcat6 -y
 
 #--------------------
 # Titan
